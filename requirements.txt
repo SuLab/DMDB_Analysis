@@ -3,6 +3,8 @@ seaborn
 matplotlib
 requests
 obonet
+demjson
+tqdm
 git+https://github.com/mmayers12/path_plots
 git+https://github.com/mmayers12/data_tools
 
