@@ -8,7 +8,10 @@ The organization for this project is as follows
 
 -  `0_data` - contains datasets either manually generated or externally acquired. Datasets without
 liscencing restritions will be made availabie within the repository or downloaded as part of the
-workflow
+workflow.
+
+    - `0_data/external` contains `indication_paths.yaml` from [DrugMechDB](https://github.com/SuLab/DrugMechDB)
+    - `0_data/manual' contains `nodes_biolink.csv` and `edges_biolink.csv` from [MechRepoNet](https://github.com/Sulab/DrugMechDB)
 
 -  `1_code` - Condtains the scripts used within this repository. Each is numbered in order of use
 
