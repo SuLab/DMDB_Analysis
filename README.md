@@ -17,3 +17,6 @@ workflow.
 
 -  `2_pipeline` - Contains the output of the scripts. This directory will not be tracked via git.
 
+## Local Location
+
+`/gpfs/group/su/mike/DMDB_Analysis`
