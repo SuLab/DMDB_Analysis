@@ -1,5 +1,6 @@
 networkx
 seaborn
+yaml
 matplotlib
 requests
 obonet
