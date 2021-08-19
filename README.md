@@ -11,7 +11,7 @@ liscencing restritions will be made availabie within the repository or downloade
 workflow.
 
     - `0_data/external` contains `indication_paths.yaml` from [DrugMechDB](https://github.com/SuLab/DrugMechDB)
-    - `0_data/manual' contains `nodes_biolink.csv` and `edges_biolink.csv` from [MechRepoNet](https://github.com/Sulab/DrugMechDB)
+    - `0_data/manual' contains `nodes_biolink.csv` and `edges_biolink.csv` from [MechRepoNet](https://github.com/SuLab/MechRepoNet)
 
 -  `1_code` - Condtains the scripts used within this repository. Each is numbered in order of use
 
